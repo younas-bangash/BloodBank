@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+  <item
+      android:id="@+id/doner"
+      android:icon="@mipmap/patient"
+      app:showAsAction="always"
+      android:title="Patient"/>
+
+  <item
+      android:id="@+id/patient"
+      android:icon="@mipmap/donor"
+      app:showAsAction="always"
+      android:title="Donor"/>
+
+  <item
+      android:id="@+id/locate"
+      android:icon="@mipmap/locateme"
+      app:showAsAction="always"
+      android:title="Locate Me"/>
+
+</menu>

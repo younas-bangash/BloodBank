@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Blood Bank</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="blood_group">Blood Group</string>
+    <string name="email_address">Email Address</string>
+    <string name="blood_patient">Blood Patient</string>
+    <string name="blood_donar">Blood Donor</string>
+    <string name="err_msg_name">Enter your name</string>
+    <string name="err_msg_email">Enter valid email address</string>
+    <string name="add_record">Add Record</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="patient">Patient</string>
+    <string name="doner">Doner</string>
+    <string name="locate_me">Locate Me</string>
+</resources>
